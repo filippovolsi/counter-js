@@ -24,6 +24,9 @@ Project created with:
 
 ## Installation
 To run this project:
+* 
+* Visit: https://relaxed-volhard-8f809f.netlify.app/ 
+* Or
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
 * Open index.html in your browser.
