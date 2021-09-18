@@ -32,7 +32,7 @@ To run this project:
 * No collaboration
 
 ## Know Bugs
-* No know bugs
+* No bugs known
 
 ## License
 * No license
