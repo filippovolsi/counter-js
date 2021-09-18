@@ -11,7 +11,7 @@
 8. [Contact Information](#contact-information)
 
 ## General Info
-This is a counter. It has been mainly devolopped with Javascript with some extra CSS rules.
+This is a counter. It has been mainly devolopped with JavaScript with some extra CSS rules.
 
 ## Description
 You can increase/decrease the value on the counter by clicking on "+" and "-" button. The RESET button will reset the result.
